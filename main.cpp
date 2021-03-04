@@ -1,5 +1,5 @@
-#include "linklist.h"
-#include "binarysearch.h"
+#include "./linkedlist/linklist.h"
+#include "./binarysearch/binarysearch.h"
 int main()
 {
    
